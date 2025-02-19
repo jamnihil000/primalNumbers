@@ -1,7 +1,5 @@
-🇪🇸Español:
-  Este pequeño software determina los números primos hasta un número elegido por el usuario.
-  Se utiliza el algoritmo de división hasta la raíz cuadrada de cada numero para optimizar el proceso.
-
-🇬🇧English:
-  This small software determines the prime numbers up to a number chosen by the user.
-  The algorithm uses division up to the square root of each number to optimize the process.
+🇪🇸 
+  🧮 Un software que determina números primos hasta un número elegido por el usuario, utilizando un algoritmo optimizado que realiza divisiones hasta la raíz cuadrada de cada número.
+  
+🇬🇧 English Version
+  🧮 A software that determines prime numbers up to a number chosen by the user, using an optimized algorithm that performs divisions up to the square root of each number.
